@@ -1,0 +1,48 @@
+{
+  "files": {
+    "binaryTree.py": [
+      {
+        "id": "6d3db4d9-69b0-4eee-9ebd-2d0f5c9b4c95",
+        "line": 36,
+        "version": 2483,
+        "index": 825
+      }
+    ],
+    "findAllLonelyNodes.py": [
+      {
+        "id": "67cb32b9-69c8-41cd-8136-44fd7b01a7ee",
+        "line": 27,
+        "version": 597,
+        "index": 521
+      }
+    ],
+    "graph.py": [
+      {
+        "id": "60ee0be5-639a-4bd5-b897-04f2ee6686d7",
+        "line": 1,
+        "version": 1046,
+        "index": 0
+      },
+      {
+        "id": "0e7cf2ab-f514-44ab-b7aa-7c8fc3ae40de",
+        "line": 17,
+        "version": 1046,
+        "index": 326
+      },
+      {
+        "id": "8dd30e9d-dd48-4eb1-8b3c-8416671a88ee",
+        "line": 25,
+        "version": 1046,
+        "index": 580
+      }
+    ],
+    "trie.py": [
+      {
+        "id": "5e3a8467-e69e-4acd-9e03-8b9ebf251499",
+        "line": 5,
+        "version": 1218,
+        "index": 137
+      }
+    ]
+  }
+}
